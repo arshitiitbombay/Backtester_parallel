@@ -1,2 +1,1 @@
-
-#SoC : Backtester using CUDA environment 
+# SoC : Backtester using CUDA environment 
