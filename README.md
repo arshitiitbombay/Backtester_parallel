@@ -1,2 +1,2 @@
-# Backtester_parallel
-SoC : Backtester using CUDA environment 
+
+#SoC : Backtester using CUDA environment 
