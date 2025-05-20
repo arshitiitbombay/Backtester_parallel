@@ -40,7 +40,7 @@ http://youtube.com/watch?v=JGxxXSCerXU
 
 
 ## An example case 
-An example case has been given in the resources
+An example case has been given in the resources for use of classes and objects
 
 
 ### Extra Extra Material :
