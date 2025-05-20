@@ -14,13 +14,13 @@ https://www.geeksforgeeks.org/get-financial-data-from-yahoo-finance-with-python/
 
 https://www.geeksforgeeks.org/python-plotly-tutorial/
 
-## matplotlib Tutorisal :
+## matplotlib Tutorial :
 
 https://www.w3schools.com/python/matplotlib_intro.asp
 
 https://matplotlib.org/
 
-## Basics ofbacktester and the stock market :
+## Basics of backtester and the stock market :
 
 Stock Market:
 
