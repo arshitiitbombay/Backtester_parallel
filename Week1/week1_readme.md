@@ -48,5 +48,3 @@ https://github.com/kernc/backtesting.py?tab=readme-ov-file
 You can review it and read how he has implemented backtesting. The main folder is backtesting. It is ok for you not to go through it.
 
 
-Contact if you have problems in this
-
