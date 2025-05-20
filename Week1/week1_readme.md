@@ -39,6 +39,10 @@ https://www.investopedia.com/terms/b/backtesting.asp
 http://youtube.com/watch?v=JGxxXSCerXU
 
 
+## An example case 
+An example case has been given in the resources
+
+
 ### Extra Extra Material :
 
 An already built backtesting unit/library :
