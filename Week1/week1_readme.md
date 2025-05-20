@@ -1,4 +1,4 @@
-# Resources for Week 1
+# Resources for Week 0
 
 ## Python Learning Resources :
 
