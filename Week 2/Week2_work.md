@@ -23,6 +23,7 @@ Your assignment is as follows:
 - To create more alphas you might need extra features, so try creating it using already given features like high, close, etc. An example is returns can be estimated using open and close prices.
 - If you face difficulties making alphas here , try it on WorldQuant Brain Platform
       https://platform.worldquantbrain.com/sign-in
+- Example alphas will be there and also tutorial to make alphas will also be there. (No need to complelete full tutorial basic understanding will be fine)
 - After you are comfortable with making alphas , complete the backtester.ipynb file
 
 
