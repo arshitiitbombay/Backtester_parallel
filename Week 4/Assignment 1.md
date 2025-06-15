@@ -8,4 +8,4 @@ We need you all to get familiar with Numba because it is our main helper for cre
 - Numerical Integration
 - Matrix Multiplication
 
-### NOTE: Use #timeit to justify code
+### NOTE: Use %timeit to justify code
