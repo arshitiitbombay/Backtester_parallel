@@ -11,9 +11,7 @@ This week we will be shifting our focus a little towards options (and derivative
 We have given the backtesting code. The assignment is as follows:
 
 - Incorporate Black-Scholes in the European Market and backtest at least 3 strategies.
-
-        OR
-  
+    OR
 - Incorporate the Binomial Model in the American Market and backtest at least 3 strategies.
 
 The assignment will follow the given flow:
